@@ -1,0 +1,12 @@
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Fake.deps.json
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Fake.dll
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Fake.pdb
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.csprojAssemblyReference.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.csproj.CoreCompileInputs.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.AssemblyInfoInputs.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.AssemblyInfo.cs
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.csproj.CopyComplete
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.dll
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\netstandard2.0\PersonRepository.Fake.pdb

@@ -1,0 +1,17 @@
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.deps.json
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csprojAssemblyReference.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csproj.CoreCompileInputs.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfoInputs.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfo.cs
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.pdb
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\DynamicLoading\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.deps.json
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\DynamicLoading\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\DynamicLoading\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfoInputs.cache
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfo.cs
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.dll
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.pdb

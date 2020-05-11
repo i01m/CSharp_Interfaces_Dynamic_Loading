@@ -1,0 +1,17 @@
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.deps.json
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.runtimeconfig.json
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.runtimeconfig.dev.json
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.dll
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\People.Service.pdb
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\PersonRepository.Interface.dll
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\bin\Debug\netcoreapp2.1\PersonRepository.Interface.pdb
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.csprojAssemblyReference.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.csproj.CoreCompileInputs.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorAssemblyInfo.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorAssemblyInfo.cs
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.AssemblyInfoInputs.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.AssemblyInfo.cs
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.RazorTargetAssemblyInfo.cache
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.csproj.CopyComplete
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.dll
+C:\ProjectDevVm\C#\Interfaces\DynamicLoading\People.Service\obj\Debug\netcoreapp2.1\People.Service.pdb
